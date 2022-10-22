@@ -1,0 +1,20 @@
+.c{
+    background-color: lightpink;
+    font-family: Verdana,"DejaVu",sans-serif;
+
+}
+
+#a {
+    color: blue;
+    font-size: 36px;
+}
+
+#b {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.s{
+    font-size: 24px;
+}
